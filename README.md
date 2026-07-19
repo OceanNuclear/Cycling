@@ -1,0 +1,2 @@
+## Cycling related matters
+* gearing_ratio.py calculates the gearing ratio of any groupset, displayed in a format that is intuitive (slowest gear on the left, fastest on the right, row represents crank rings used).
